@@ -1,5 +1,5 @@
 # medbert
-经过中文医疗领域文本语料库训练的语言表示模型Medbert以及在QA和NER上的应用
-Medbert_QA.gz文件为重新预训练代码以及将MedBERT应用于QA代码
-Medbert_ner.zip文件为将MedBERT应用于命名实体识别代码
-EnMedBERT.zip文件为将实体知识融入MedBERT模型的QA代码
+经过中文医疗领域文本语料库训练的语言表示模型Medbert以及在QA和NER上的应用。
+Medbert_QA.gz文件为重新预训练代码以及将MedBERT应用于QA代码；
+Medbert_ner.zip文件为将MedBERT应用于命名实体识别代码；
+EnMedBERT.zip文件为将实体知识融入MedBERT模型的QA代码。
