@@ -1,2 +1,2 @@
 # medbert
-中文医疗领域bert
+经过中文医疗领域文本语料库训练的语言表示模型Medbert以及在QA和NER上的应用
